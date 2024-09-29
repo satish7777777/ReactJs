@@ -1,0 +1,75 @@
+{
+  "appointments": [
+    {
+      "id": "3f0a",
+      "name": "satish",
+      "date": "2024-06-12",
+      "time": "11:56"
+    },
+    {
+      "id": "2d7d",
+      "name": "satishkum",
+      "date": "2024-06-11",
+      "time": "02:56"
+    },
+    {
+      "id": "9b9b",
+      "name": "vijeta",
+      "date": "2024-06-13",
+      "time": "01:44"
+    },
+    {
+      "id": "fe21",
+      "name": "simran",
+      "date": "2024-06-13",
+      "time": "01:50"
+    },
+    {
+      "id": "7046",
+      "name": "siwani",
+      "date": "2024-06-13",
+      "time": "11:56"
+    },
+    {
+      "id": "01b7",
+      "name": "Anamika",
+      "date": "2024-06-11",
+      "time": "12:02"
+    },
+    {
+      "id": "60a1",
+      "name": "vishal",
+      "date": "2024-06-13",
+      "time": "15:18",
+      "doctor": ""
+    },
+    {
+      "id": "3a42",
+      "name": "vishal2",
+      "date": "2024-06-13",
+      "time": "16:20",
+      "doctor": ""
+    },
+    {
+      "id": "a633",
+      "name": "vishal2",
+      "date": "2024-06-13",
+      "time": "16:20",
+      "doctor": "Dr. Jones"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Smith"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jones"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Brown"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "roomtype": [
+    
+  ],
+  "services": [
+    {
+      "id": "1",
+      "service": "loundry",
+      "rate": 10
+    },
+    {
+      "id": "2",
+      "service": "Cleaning",
+      "rate": 50
+    },
+    {
+      "id": "3",
+      "service": "water",
+      "rate": 20
+    },
+    {
+      "id": "4",
+      "service": "breakfast",
+      "rate": 80
+    }
+  ],
+  "roomServices": [
+    {
+      "id": "6517"
+    }
+  ]
+}

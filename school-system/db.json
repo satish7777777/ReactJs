@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": "5a53",
+      "name": "Satish ",
+      "fatherName": "Vinod",
+      "address": "Ramggarh",
+      "marks": {
+        "math": "60",
+        "science": "70",
+        "english": "65"
+      }
+    },
+    {
+      "id": "dcd0",
+      "name": "vijeta",
+      "fatherName": "bramha",
+      "address": "gola",
+      "marks": {
+        "math": "50",
+        "science": "75",
+        "english": "80"
+      }
+    },
+    {
+      "id": "deab",
+      "name": "vishal",
+      "fatherName": "suraj",
+      "address": "Giridih",
+      "marks": {
+        "math": "65",
+        "science": "70",
+        "english": "35"
+      }
+    },
+    {
+      "id": "18ba",
+      "name": "ujjal",
+      "fatherName": "ssss",
+      "address": "Giridih",
+      "marks": {
+        "math": "64",
+        "science": "70",
+        "english": "35"
+      }
+    }
+  ]
+}
