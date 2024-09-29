@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "cea8",
+      "name": "asf",
+      "quantity": "4",
+      "rate": "7",
+      "email": "regtfe@gmail.com"
+    },
+    {
+      "id": "ef1c",
+      "name": "hgj",
+      "quantity": "4",
+      "rate": "5",
+      "email": "s@gmail.com"
+    }
+  ]
+}

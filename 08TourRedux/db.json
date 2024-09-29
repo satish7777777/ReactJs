@@ -1,0 +1,515 @@
+
+{
+    "cities": [
+      { "id": "1", "name": "Ranchi", "imgurl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481888439.jpg?k=71754747396a1ba5cc21d167b806e905f077a06fd2e087d4d1ddf2004d44eb01&o=&hp=1" },
+      { "id": "2", "name": "Manipur", "imgurl": "https://assets.zeezest.com/blogs/PROD_ZZ%20SEO%20Image%20Resizing%203%20%282%29_1683044489102.png" },
+      { "id": "3", "name": "Jaipur", "imgurl": "https://assets.vogue.in/photos/5ce41ea8b803113d138f5cd2/16:9/w_1920,h_1080,c_limit/Jaipur-Travel-Shopping-Restaurants.jpg" },
+      { "id": "4", "name": "Amarnath", "imgurl": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0b/36/e9/26/located-in-the-trekking.jpg" },
+      { "id": "5", "name": "Chennia", "imgurl": "https://hblimg.mmtcdn.com/content/hubble/img/destimgjun2022/mmt/activities/m_Chennai1_l_931_1396.jpg" },
+      { "id": "6", "name": "Andmaan", "imgurl": "https://static.theprint.in/wp-content/uploads/2020/08/Untitled-design-2020-08-09T193331.340.jpg" },
+      { "id": "7", "name": "Lakshyadeep", "imgurl": "https://media.istockphoto.com/id/827280700/photo/relax.jpg?s=612x612&w=0&k=20&c=S-uJwUwSZ7pkZte9YpIdIY4b3rtZ6fgTqwd-KSPR1_4=" },
+      { "id": "8", "name": "Silong", "imgurl": "https://www.hindustantimes.com/ht-img/img/2023/11/30/1600x900/1_1701333131457_1701333142050.jpg" },
+      { "id": "9", "name": "Shimla", "imgurl": "https://static.toiimg.com/thumb/msid-102383896,width-748,height-499,resizemode=4,imgsize-238460/Most-beautiful-pictures-of-Shimla-youll-see-on-the-internet-today.jpg" },
+      { "id": "10", "name": "Bhubaneswar", "imgurl": "https://assets.cntraveller.in/photos/60ba1261556f29fbec5f21f8/16:9/w_1024%2Cc_limit/Bhubaneshwar-lead.jpg" },
+      { "id": "11", "name": "Ladhak", "imgurl": "https://static.toiimg.com/photo/92360678.cms" }
+    ],
+    "places": [
+      {
+         "id": 1,
+         "cityId":1,
+       "title": "Ranchi",
+       "description": "Ranchi revolves around its captivating natural beauty and cultural heritage. Visitors flock to witness the majestic waterfalls like Hundru Falls and Jonha Falls, which cascade down rocky cliffs amidst lush greenery. The city's serene lakes, such as Ranchi Lake and Kanke Dam, offer tranquil retreats for boating and picnics. Ranchi is also a gateway to the scenic landscapes of nearby destinations like Netarhat and Betla National Park, ideal for nature enthusiasts and wildlife lovers. The city's tribal culture adds a unique charm, with opportunities to explore tribal villages and experience their traditional way of life. ",
+       "rating":4.5,
+       "avilability":true,
+       "ticketPrice":5000,
+       "image":"https://www.holidify.com/images/cmsuploads/compressed/7190236144_65a4d3f83c_b_20190116141249.jpg",
+       "address":"" 
+    },
+    {
+      "id": 2,
+      "cityId":1,
+    "title": "Ranchi",
+    "description": "Ranchi revolves around its captivating natural beauty and cultural heritage. Visitors flock to witness the majestic waterfalls like Hundru Falls and Jonha Falls, which cascade down rocky cliffs amidst lush greenery. The city's serene lakes, such as Ranchi Lake and Kanke Dam, offer tranquil retreats for boating and picnics. Ranchi is also a gateway to the scenic landscapes of nearby destinations like Netarhat and Betla National Park, ideal for nature enthusiasts and wildlife lovers. The city's tribal culture adds a unique charm, with opportunities to explore tribal villages and experience their traditional way of life. ",
+    "rating":4.5,
+    "avilability":true,
+    "ticketPrice":5000,
+    "image":"https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Jagannath-Temple.jpg",
+    "address":"" 
+ },
+ {
+  "id": 3,
+  "cityId":1,
+"title": "Ranchi",
+"description": "Ranchi revolves around its captivating natural beauty and cultural heritage. Visitors flock to witness the majestic waterfalls like Hundru Falls and Jonha Falls, which cascade down rocky cliffs amidst lush greenery. The city's serene lakes, such as Ranchi Lake and Kanke Dam, offer tranquil retreats for boating and picnics. Ranchi is also a gateway to the scenic landscapes of nearby destinations like Netarhat and Betla National Park, ideal for nature enthusiasts and wildlife lovers. The city's tribal culture adds a unique charm, with opportunities to explore tribal villages and experience their traditional way of life. ",
+"rating":4.5,
+"avilability":true,
+"ticketPrice":5000,
+"image":"https://pbs.twimg.com/media/EMNwkhjVAAAbnEI?format=jpg&name=4096x4096",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":1,
+"title": "Ranchi",
+"description": "Ranchi revolves around its captivating natural beauty and cultural heritage. Visitors flock to witness the majestic waterfalls like Hundru Falls and Jonha Falls, which cascade down rocky cliffs amidst lush greenery. The city's serene lakes, such as Ranchi Lake and Kanke Dam, offer tranquil retreats for boating and picnics. Ranchi is also a gateway to the scenic landscapes of nearby destinations like Netarhat and Betla National Park, ideal for nature enthusiasts and wildlife lovers. The city's tribal culture adds a unique charm, with opportunities to explore tribal villages and experience their traditional way of life. ",
+"rating":4.5,
+"avilability":true,
+"ticketPrice":5000,
+"image":"https://images.news18.com/ibnlive/uploads/2021/11/jharkhand-163690843916x9.jpg?impolicy=website&width=1200&height=675",
+"address":"" 
+},
+    
+    
+    
+      {
+        "id": 1,
+        "cityId":2,
+      "title": "Manipur",
+      "description": "Manipur, nestled in the northeastern part of India, is a captivating destination steeped in natural beauty, rich culture, and vibrant traditions. Known as the Jewel of India Manipur boasts picturesque landscapes adorned with lush greenery, cascading waterfalls, serene lakes, and rolling hills.",
+      "rating":4.7,
+      "avilability":true,
+      "ticketPrice":6300,
+      "image":"https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/18/41382e8a00fb64504e33762e52d83b21_1000x1000.jpg",
+      "address":"" 
+   },
+   {
+    "id": 2,
+    "cityId":2,
+  "title": "Manipur",
+  "description": "Manipur, nestled in the northeastern part of India, is a captivating destination steeped in natural beauty, rich culture, and vibrant traditions. Known as the Jewel of India Manipur boasts picturesque landscapes adorned with lush greenery, cascading waterfalls, serene lakes, and rolling hills.",
+  "rating":4.7,
+  "avilability":true,
+  "ticketPrice":6300,
+  "image":"https://www.clubmahindra.com/blog/media/section_images/placestovi-ebdfa4492976aec.webp",
+  "address":"" 
+},
+{
+  "id": 3,
+  "cityId":2,
+"title": "Manipur",
+"description": "Manipur, nestled in the northeastern part of India, is a captivating destination steeped in natural beauty, rich culture, and vibrant traditions. Known as the Jewel of India Manipur boasts picturesque landscapes adorned with lush greenery, cascading waterfalls, serene lakes, and rolling hills.",
+"rating":4.7,
+"avilability":true,
+"ticketPrice":6300,
+"image":"https://i0.wp.com/www.zingbus.com/blog/wp-content/uploads/2022/06/Loktak-Lake.jpg?resize=1024%2C597&ssl=1",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":2,
+"title": "Manipur",
+"description": "Manipur, nestled in the northeastern part of India, is a captivating destination steeped in natural beauty, rich culture, and vibrant traditions. Known as the Jewel of India Manipur boasts picturesque landscapes adorned with lush greenery, cascading waterfalls, serene lakes, and rolling hills.",
+"rating":4.7,
+"avilability":true,
+"ticketPrice":6300,
+"image":"https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/cover-for-Places-To-Visit-In-Manipur.jpg",
+"address":"" 
+},
+ 
+    {
+    "id": 1,
+    "cityId":3,
+  "title": "Jaipur",
+  "description": "India, is a kaleidoscope of vibrant colors, rich history, and royal grandeur. Fondly known as the Pink City due to its distinct terracotta-hued buildings, Jaipur is a mesmerizing blend of ancient traditions and modern amenities.",
+  "rating":4.1,
+  "avilability":true,
+  "ticketPrice":3500,
+  "image":"https://www.thepinkcityholidays.com/wp-content/uploads/2023/01/shopping-in-jaipur.jpg",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":3,
+"title": "Jaipur",
+"description": "India, is a kaleidoscope of vibrant colors, rich history, and royal grandeur. Fondly known as the Pink City due to its distinct terracotta-hued buildings, Jaipur is a mesmerizing blend of ancient traditions and modern amenities.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":3500,
+"image":"https://www.abhibus.com/blog/wp-content/uploads/2023/06/Top-10-Places-to-Visit-in-Jaipur-How-to-Reach-Best-Time-Tourist-Attractions.jpg",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":3,
+"title": "Jaipur",
+"description": "India, is a kaleidoscope of vibrant colors, rich history, and royal grandeur. Fondly known as the Pink City due to its distinct terracotta-hued buildings, Jaipur is a mesmerizing blend of ancient traditions and modern amenities.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":3500,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRqS24QP49Sj71zCRjj48zrriY1zJKrnC4Q&s",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":3,
+"title": "Jaipur",
+"description": "India, is a kaleidoscope of vibrant colors, rich history, and royal grandeur. Fondly known as the Pink City due to its distinct terracotta-hued buildings, Jaipur is a mesmerizing blend of ancient traditions and modern amenities.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":3500,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvs8KNieGQ-wGAfXLdTSPDnjwbvHj8L-8uA&s",
+"address":"" 
+},
+
+  {
+    "id": 1,
+    "cityId":4,
+  "title": "Amarnath",
+  "description": "Amarnath, nestled in the Himalayan region of Jammu and Kashmir, India, is a sacred pilgrimage site revered by millions of devotees. The highlight of the journey is the Amarnath Cave, situated at an altitude of around 3,888 meters (12,756 feet) above sea level.",
+  "rating":4.6,
+  "avilability":true,
+  "ticketPrice":4500,
+  "image":"https://www.countrysidekashmir.com/img/Amarnath_cave_pilgrimage.jpg",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":4,
+"title": "Amarnath",
+"description": "Amarnath, nestled in the Himalayan region of Jammu and Kashmir, India, is a sacred pilgrimage site revered by millions of devotees. The highlight of the journey is the Amarnath Cave, situated at an altitude of around 3,888 meters (12,756 feet) above sea level.",
+"rating":4.6,
+"avilability":true,
+"ticketPrice":4500,
+"image":"https://upload.wikimedia.org/wikipedia/commons/6/66/Cave_Temple_of_Lord_Amarnath.jpg",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":4,
+"title": "Amarnath",
+"description": "Amarnath, nestled in the Himalayan region of Jammu and Kashmir, India, is a sacred pilgrimage site revered by millions of devotees. The highlight of the journey is the Amarnath Cave, situated at an altitude of around 3,888 meters (12,756 feet) above sea level.",
+"rating":4.6,
+"avilability":true,
+"ticketPrice":4500,
+"image":"https://i.pinimg.com/736x/6e/9d/09/6e9d092c67b98328233a4f008dc8c9db.jpg",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":4,
+"title": "Amarnath",
+"description": "Amarnath, nestled in the Himalayan region of Jammu and Kashmir, India, is a sacred pilgrimage site revered by millions of devotees. The highlight of the journey is the Amarnath Cave, situated at an altitude of around 3,888 meters (12,756 feet) above sea level.",
+"rating":4.6,
+"avilability":true,
+"ticketPrice":4500,
+"image":"https://static.toiimg.com/photo/msid-52200451,width-96,height-65.cms",
+"address":"" 
+},
+
+  {
+    "id": 1,
+    "cityId":5,
+  "title": "Chennia",
+  "description": " the vibrant capital city of Tamil Nadu, India, is a bustling metropolis that seamlessly blends tradition with modernity. Situated on the Coromandel Coast along the Bay of Bengal, Chennai is known for its rich cultural heritage, architectural marvels, and delectable cuisine.",
+  "rating":3.9,
+  "avilability":true,
+  "ticketPrice":7000,
+  "image":"https://www.holidify.com/images/bgImages/TIRUCHI.jpg",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":5,
+"title": "Chennia",
+"description": " the vibrant capital city of Tamil Nadu, India, is a bustling metropolis that seamlessly blends tradition with modernity. Situated on the Coromandel Coast along the Bay of Bengal, Chennai is known for its rich cultural heritage, architectural marvels, and delectable cuisine.",
+"rating":3.9,
+"avilability":true,
+"ticketPrice":7000,
+"image":"https://static.toiimg.com/photo/53612159.cms",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":5,
+"title": "Chennia",
+"description": " the vibrant capital city of Tamil Nadu, India, is a bustling metropolis that seamlessly blends tradition with modernity. Situated on the Coromandel Coast along the Bay of Bengal, Chennai is known for its rich cultural heritage, architectural marvels, and delectable cuisine.",
+"rating":3.9,
+"avilability":true,
+"ticketPrice":7000,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXPdexMsjneWucQW6cxVGTQKCBNhQHTUCQg&s",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":5,
+"title": "Chennia",
+"description": " the vibrant capital city of Tamil Nadu, India, is a bustling metropolis that seamlessly blends tradition with modernity. Situated on the Coromandel Coast along the Bay of Bengal, Chennai is known for its rich cultural heritage, architectural marvels, and delectable cuisine.",
+"rating":3.9,
+"avilability":true,
+"ticketPrice":7000,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaDqKHYRU6GFZkTwD55H2cDVXvopkxSkI0Dw&s",
+"address":"" 
+},
+
+  {
+    "id": 1,
+    "cityId":6,
+  "title": "Andmaan",
+  "description": "The Andaman Islands, located in the Bay of Bengal, are a pristine archipelago of around 300 islands known for their breathtaking natural beauty, diverse marine life, and rich cultural heritage. With their crystal-clear turquoise waters, powdery white-sand beaches, and lush tropical forests, the Andaman Islands offer a paradise-like setting for travelers seeking relaxation and adventure alike.",
+  "rating":1.9,
+  "avilability":true,
+  "ticketPrice":8500,
+  "image":"https://pickyourtrail.com/blog/wp-content/uploads/2020/05/moneyinc.jpg",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":6,
+"title": "Andmaan",
+"description": "The Andaman Islands, located in the Bay of Bengal, are a pristine archipelago of around 300 islands known for their breathtaking natural beauty, diverse marine life, and rich cultural heritage. With their crystal-clear turquoise waters, powdery white-sand beaches, and lush tropical forests, the Andaman Islands offer a paradise-like setting for travelers seeking relaxation and adventure alike.",
+"rating":1.9,
+"avilability":true,
+"ticketPrice":8500,
+"image":"https://t3.ftcdn.net/jpg/06/11/33/86/360_F_611338656_EQHQ3mbT6dtKqXMQljyoY7gKGbxeONXs.jpg",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":6,
+"title": "Andmaan",
+"description": "The Andaman Islands, located in the Bay of Bengal, are a pristine archipelago of around 300 islands known for their breathtaking natural beauty, diverse marine life, and rich cultural heritage. With their crystal-clear turquoise waters, powdery white-sand beaches, and lush tropical forests, the Andaman Islands offer a paradise-like setting for travelers seeking relaxation and adventure alike.",
+"rating":1.9,
+"avilability":true,
+"ticketPrice":8500,
+"image":"https://www.voltaaomundo.pt/files/2015/12/Andaman-Islands.jpg",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":6,
+"title": "Andmaan",
+"description": "The Andaman Islands, located in the Bay of Bengal, are a pristine archipelago of around 300 islands known for their breathtaking natural beauty, diverse marine life, and rich cultural heritage. With their crystal-clear turquoise waters, powdery white-sand beaches, and lush tropical forests, the Andaman Islands offer a paradise-like setting for travelers seeking relaxation and adventure alike.",
+"rating":1.9,
+"avilability":true,
+"ticketPrice":8500,
+"image":"https://static.toiimg.com/photo/53891661.cms",
+"address":"" 
+},
+
+{
+    "id": 1,
+    "cityId":7,
+  "title": "Lakshyadeep",
+  "description": "Lakshadweep, an archipelago of 36 islands located in the Arabian Sea off the southwestern coast of India, is a tropical paradise known for its pristine beaches, azure waters, and vibrant marine life.",
+  "rating":4.1,
+  "avilability":true,
+  "ticketPrice":9000,
+  "image":"https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg",
+  "address":"" 
+},
+{
+  "id":2,
+  "cityId":7,
+"title": "Lakshyadeep",
+"description": "Lakshadweep, an archipelago of 36 islands located in the Arabian Sea off the southwestern coast of India, is a tropical paradise known for its pristine beaches, azure waters, and vibrant marine life.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":9000,
+"image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/fa/8f/43/islands-in-lakshadweep.jpg?w=1200&h=1200&s=1",
+"address":"" 
+},
+{
+  "id":3,
+  "cityId":7,
+"title": "Lakshyadeep",
+"description": "Lakshadweep, an archipelago of 36 islands located in the Arabian Sea off the southwestern coast of India, is a tropical paradise known for its pristine beaches, azure waters, and vibrant marine life.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":9000,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FXyIjtvXeQbUmT-42yqNRm5C_aMUYr9H_g&s",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":7,
+"title": "Lakshyadeep",
+"description": "Lakshadweep, an archipelago of 36 islands located in the Arabian Sea off the southwestern coast of India, is a tropical paradise known for its pristine beaches, azure waters, and vibrant marine life.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":9000,
+"image":"https://halaltripindia.com/wp-content/uploads/2023/10/LAKSHADWEEP-ISLANDS-SITE-PICS-04-2048x1365.jpg",
+"address":"" 
+},
+
+{
+    "id": 1,
+    "cityId":8,
+  "title": "Silong",
+  "description": "Shillong, often referred to as the Scotland of the East, is a picturesque hill station nestled in the East Khasi Hills of Meghalaya. It's known for its breathtaking landscapes, pleasant climate, and rich cultural heritage.",
+  "rating":3.4,
+  "avilability":true,
+  "ticketPrice":7500,
+  "image":"https://images.unsplash.com/photo-1609276804051-8c5e906cc430?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hpbGxvbmd8ZW58MHx8MHx8fDA%3D",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":8,
+"title": "Silong",
+"description": "Shillong, often referred to as the Scotland of the East, is a picturesque hill station nestled in the East Khasi Hills of Meghalaya. It's known for its breathtaking landscapes, pleasant climate, and rich cultural heritage.",
+"rating":3.4,
+"avilability":true,
+"ticketPrice":7500,
+"image":"https://www.shutterstock.com/shutterstock/photos/2067758435/display_1500/stock-photo-mountain-range-valley-filled-with-low-clouds-with-dramatic-sky-at-morning-image-is-taken-at-latilum-2067758435.jpg",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":8,
+"title": "Silong",
+"description": "Shillong, often referred to as the Scotland of the East, is a picturesque hill station nestled in the East Khasi Hills of Meghalaya. It's known for its breathtaking landscapes, pleasant climate, and rich cultural heritage.",
+"rating":3.4,
+"avilability":true,
+"ticketPrice":7500,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQADfUtZMjTQOxz2nfGHsZ_obaRQXSi5-ZyZg&s",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":8,
+"title": "Silong",
+"description": "Shillong, often referred to as the Scotland of the East, is a picturesque hill station nestled in the East Khasi Hills of Meghalaya. It's known for its breathtaking landscapes, pleasant climate, and rich cultural heritage.",
+"rating":3.4,
+"avilability":true,
+"ticketPrice":7500,
+"image":"https://assets.traveltriangle.com/blog/wp-content/uploads/2018/06/Nohsngithiang-Falls.jpg?tr=w-400",
+"address":"" 
+},
+
+{
+    "id": 1,
+    "cityId":9,
+  "title": "Shimla",
+  "description": "Shimla, the capital city of Himachal Pradesh in northern India, is a charming hill station renowned for its colonial architecture, scenic beauty, and pleasant climate. Nestled in the Himalayan foothills, Shimla was once the summer capital of British India, and its colonial legacy is reflected in its stately buildings, churches, and heritage railways.",
+  "rating":4.0,
+  "avilability":true,
+  "ticketPrice":6000,
+  "image":"https://www.roamingroutes.com/wp-content/uploads/2022/01/Top-18-Tourist-Places-In-Shimla-to-Visit-in-2023-img-1.webp",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":9,
+"title": "Shimla",
+"description": "Shimla, the capital city of Himachal Pradesh in northern India, is a charming hill station renowned for its colonial architecture, scenic beauty, and pleasant climate. Nestled in the Himalayan foothills, Shimla was once the summer capital of British India, and its colonial legacy is reflected in its stately buildings, churches, and heritage railways.",
+"rating":4.0,
+"avilability":true,
+"ticketPrice":6000,
+"image":"https://i.pinimg.com/originals/7f/62/8d/7f628daeff85825989a0d30a89d7b260.jpg",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":9,
+"title": "Shimla",
+"description": "Shimla, the capital city of Himachal Pradesh in northern India, is a charming hill station renowned for its colonial architecture, scenic beauty, and pleasant climate. Nestled in the Himalayan foothills, Shimla was once the summer capital of British India, and its colonial legacy is reflected in its stately buildings, churches, and heritage railways.",
+"rating":4.0,
+"avilability":true,
+"ticketPrice":6000,
+"image":"https://images.unsplash.com/photo-1597074866923-dc0589150358?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2hpbWxhJTIwaW5kaWF8ZW58MHx8MHx8fDA%3D",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":9,
+"title": "Shimla",
+"description": "Shimla, the capital city of Himachal Pradesh in northern India, is a charming hill station renowned for its colonial architecture, scenic beauty, and pleasant climate. Nestled in the Himalayan foothills, Shimla was once the summer capital of British India, and its colonial legacy is reflected in its stately buildings, churches, and heritage railways.",
+"rating":4.0,
+"avilability":true,
+"ticketPrice":6000,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLO8LEY-dTlpxpLmelfJVr2LepODXn4IMMaQ&s",
+"address":"" 
+},
+
+{
+    "id": 1,
+    "cityId":10,
+  "title": "Bhubaneswar",
+  "description": "Bhubaneswar, the capital city of the eastern Indian state of Odisha, is a vibrant metropolis known for its rich history, ancient temples, and cultural heritage. Often referred to as the Temple City of India, Bhubaneswar boasts a wealth of architectural marvels dating back to the Kalinga period and beyond.",
+  "rating":3.8,
+  "avilability":true,
+  "ticketPrice":6000,
+  "image":"https://www.odishavacations.com/images/resource/activity-2.jpg",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":10,
+"title": "Bhubaneswar",
+"description": "Bhubaneswar, the capital city of the eastern Indian state of Odisha, is a vibrant metropolis known for its rich history, ancient temples, and cultural heritage. Often referred to as the Temple City of India, Bhubaneswar boasts a wealth of architectural marvels dating back to the Kalinga period and beyond.",
+"rating":3.8,
+"avilability":true,
+"ticketPrice":6000,
+"image":"https://bhubaneswartourism.in/images/v2/places-to-visit-in-bhubaneswar/khandagiri-caves-udayagiri-bhubaneswar-places-to-visit.jpg",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":10,
+"title": "Bhubaneswar",
+"description": "Bhubaneswar, the capital city of the eastern Indian state of Odisha, is a vibrant metropolis known for its rich history, ancient temples, and cultural heritage. Often referred to as the Temple City of India, Bhubaneswar boasts a wealth of architectural marvels dating back to the Kalinga period and beyond.",
+"rating":3.8,
+"avilability":true,
+"ticketPrice":6000,
+"image":"https://st1.latestly.com/wp-content/uploads/2022/03/Odisha-tourism-784x441.jpg",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":10,
+"title": "Bhubaneswar",
+"description": "Bhubaneswar, the capital city of the eastern Indian state of Odisha, is a vibrant metropolis known for its rich history, ancient temples, and cultural heritage. Often referred to as the Temple City of India, Bhubaneswar boasts a wealth of architectural marvels dating back to the Kalinga period and beyond.",
+"rating":3.8,
+"avilability":true,
+"ticketPrice":6000,
+"image":"https://i0.wp.com/traveldiaryparnashree.com/wp-content/uploads/2019/10/1024px-D0_WK_-_Sun_Temple_Konark_-_Odisha.jpg?ssl=1",
+"address":"" 
+},
+
+{
+    "id": 1,
+    "cityId":11,
+  "title": "Ladhak",
+  "description": "Ladakh, often referred to as the Land of High Passes, is a rugged and remote region nestled in the northernmost part of India's union territory of Ladakh. It is renowned for its stark, otherworldly landscapes, ancient monasteries, and vibrant culture.",
+  "rating":4.1,
+  "avilability":true,
+  "ticketPrice":8000,
+  "image":"https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/06/10-Things-You-Should-Never-Miss-Out-on-a-Trip-to-Ladakh-Image-5.jpg",
+  "address":"" 
+},
+{
+  "id": 2,
+  "cityId":11,
+"title": "Ladhak",
+"description": "Ladakh, often referred to as the Land of High Passes, is a rugged and remote region nestled in the northernmost part of India's union territory of Ladakh. It is renowned for its stark, otherworldly landscapes, ancient monasteries, and vibrant culture.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":8000,
+"image":"https://images.unsplash.com/photo-1619837374214-f5b9eb80876d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFkYWtofGVufDB8fDB8fHww",
+"address":"" 
+},
+{
+  "id": 3,
+  "cityId":11,
+"title": "Ladhak",
+"description": "Ladakh, often referred to as the Land of High Passes, is a rugged and remote region nestled in the northernmost part of India's union territory of Ladakh. It is renowned for its stark, otherworldly landscapes, ancient monasteries, and vibrant culture.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":8000,
+"image":"https://i.pinimg.com/originals/e5/9a/c2/e59ac2b742698adf2d3e4a4cc1d6270a.jpg",
+"address":"" 
+},
+{
+  "id": 4,
+  "cityId":11,
+"title": "Ladhak",
+"description": "Ladakh, often referred to as the Land of High Passes, is a rugged and remote region nestled in the northernmost part of India's union territory of Ladakh. It is renowned for its stark, otherworldly landscapes, ancient monasteries, and vibrant culture.",
+"rating":4.1,
+"avilability":true,
+"ticketPrice":8000,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lXERh4SPGDNWqN8und8_mc9ljhduF-hj7Q&s",
+"address":"" 
+}
+    ]
+    
+  }
