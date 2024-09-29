@@ -1,0 +1,53 @@
+{
+  "bill": [
+    {
+      "id": "e1ce",
+      "date": "2024-05-28",
+      "billNo": "dasf",
+      "customerName": "saddam",
+      "address": "asdfadsf  sadf asdf asdf sdf ",
+      "items": [
+        {
+          "name": "samosa",
+          "rate": "40",
+          "quantity": "50",
+          "amount": 2000
+        },
+        {
+          "name": "aam",
+          "rate": "25",
+          "quantity": "40",
+          "amount": 1000
+        }
+      ],
+      "total": 3000,
+      "dis": 150,
+      "tax": 360,
+      "gross": 3210,
+      "round": 0,
+      "netAmt": 3210
+    },
+    {
+      "id": "5ca9",
+      "date": "",
+      "billNo": "",
+      "customerName": "",
+      "address": "",
+      "items": [],
+      "gross": 0,
+      "round": 0,
+      "netAmt": 0
+    },
+    {
+      "id": "fb61",
+      "date": "",
+      "billNo": "",
+      "customerName": "",
+      "address": "",
+      "items": [],
+      "gross": 0,
+      "round": 0,
+      "netAmt": 0
+    }
+  ]
+}

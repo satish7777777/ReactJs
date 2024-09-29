@@ -1,0 +1,17 @@
+{
+    "patient": [
+      { "id": "1",
+       "Patient": "a title", 
+       "Docter":"Docter A",
+       "Deisese ":"Maleria",
+       "Address":"Ramgarh"
+     },
+
+     { "id": "2",
+     "Patient": "Satsj", 
+     "Docter":"Docter B",
+     "Deisese ":"Typhiod",
+     "Address":"Ranchi"
+   }
+    ]
+  }

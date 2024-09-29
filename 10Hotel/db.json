@@ -1,0 +1,78 @@
+{
+  "roomtype": [
+    {
+      "id": 1,
+      "name": "Non-AC"
+    },
+    {
+      "id": 1,
+      "name": "AC"
+    },
+    {
+      "id": 1,
+      "name": "Delux"
+    },
+    {
+      "id": 1,
+      "name": "Dimond Delux22"
+    },
+    {
+      "id": 1,
+      "name": "king45"
+    },
+    {
+      "id": 1,
+      "name": "king765"
+    }
+  ],
+  "room": [
+    {
+      "id": "1",
+      "roomtype": "Delux",
+      "roomno": "f3",
+      "rate": "5000",
+      "noofbeds": "2",
+      "active": "On"
+    },
+    {
+      "id": "2",
+      "roomtype": "Delux",
+      "roomno": "d3",
+      "rate": "1500",
+      "noofbeds": "2",
+      "active": "On"
+    },
+    {
+      "id": "3",
+      "roomtype": "AC",
+      "roomno": "d3",
+      "rate": "3700",
+      "noofbeds": "4",
+      "active": "On"
+    },
+    {
+      "id": "4",
+      "roomtype": "Delux",
+      "roomno": "d4",
+      "rate": "5500",
+      "noofbeds": "6",
+      "active": "On"
+    },
+    {
+      "id": "5",
+      "roomtype": "Dimond Delux",
+      "roomno": "d8",
+      "rate": "550",
+      "noofbeds": "4",
+      "active": "On"
+    },
+    {
+      "id": "6",
+      "roomtype": "Non-AC",
+      "roomno": "4j",
+      "rate": "1000",
+      "noofbeds": "1",
+      "active": "On"
+    }
+  ]
+}
